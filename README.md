@@ -30,8 +30,8 @@ Python, Scikit-learn, Differential Privacy, Machine Learning, Data Preprocessing
     git clone https://github.com/yourusername/mental-health-privacy-prediction.git
     cd mental-health-privacy-prediction
 
-3.Install dependencies
-  pip install pandas numpy scikit-learn matplotlib seaborn ipywidgets
+3. Install dependencies
+   pip install pandas numpy scikit-learn matplotlib seaborn ipywidgets
 
 4. Download the dataset
     Download from Kaggle
